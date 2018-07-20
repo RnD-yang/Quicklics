@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_favorite.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/favorite.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/xml_device_admin.xml.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/xml/device_admin.xml"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_rendering_item.xml.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/rendering_item.xml"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_bluetooth_off.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/bluetooth_off.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/layout_apklist_item.xml.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/layout/apklist_item.xml"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_bluetooth_on.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/bluetooth_on.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_favorite_add.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/favorite_add.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_hardware.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/hardware.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_sound_increase.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/sound_increase.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_key_move.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/key_move.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_rendering_circle.xml.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/rendering_circle.xml"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_gps_on.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/gps_on.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_gps_off.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/gps_off.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_sound_vibrate.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/sound_vibrate.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_rotate_off.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/rotate_off.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_home.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/home.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_power.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/power.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_keyboard.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/keyboard.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_wifi_on.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/wifi_on.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_key_right.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/key_right.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/layout_activity_apklist_favorite.xml.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/layout/activity_apklist_favorite.xml"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_key_left.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/key_left.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_wifi_off.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/wifi_off.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_sound_decrease.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/sound_decrease.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_sound_on.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/sound_on.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_sound_mute.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/sound_mute.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_favorite_delete.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/favorite_delete.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_airplane_on.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/airplane_on.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_airplane_off.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/airplane_off.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_key_exit.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/key_exit.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable_rotate_on.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable/rotate_on.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/build/intermediates/res/merged/debug/drawable-xhdpi_floating.png.flat",
+        "source": "/Users/huny_ang/Google-Drive/Development/Android_studio/Quicklics/app/src/main/res/drawable-xhdpi/floating.png"
+    }
+]
